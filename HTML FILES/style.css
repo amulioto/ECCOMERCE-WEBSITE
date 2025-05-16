@@ -374,4 +374,17 @@ footer {
     .contact-form {
         width: 100%;
     }
+    .addto-cart {
+        padding: 10px 15px;
+        display: inline-block;
+    padding: 12px 25px;
+    background-color: #ff8c00; /* Orange */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+        
+    }
 }
